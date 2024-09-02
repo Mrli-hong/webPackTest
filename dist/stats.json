@@ -1,8 +1,8 @@
 {
   "hash": "cc289dde3cae0a3e1839",
   "version": "5.94.0",
-  "time": 4177,
-  "builtAt": 1725260181192,
+  "time": 3973,
+  "builtAt": 1725263253892,
   "publicPath": "auto",
   "outputPath": "D:\\Code\\webpackTest\\dist",
   "assetsByChunkName": {
@@ -505,20 +505,20 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-          "issuerName": "./src/index2.js",
+          "issuer": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+          "issuerName": "./src/index.js",
           "issuerPath": [
             {
-              "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-              "name": "./src/index2.js",
-              "id": "./src/index2.js"
+              "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+              "name": "./src/index.js",
+              "id": "./src/index.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./styles/style.scss",
-          "issuerId": "./src/index2.js",
+          "issuerId": "./src/index.js",
           "chunks": [
             "index",
             "name"
@@ -585,9 +585,9 @@
           "issuerName": "./styles/style.scss",
           "issuerPath": [
             {
-              "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-              "name": "./src/index2.js",
-              "id": "./src/index2.js"
+              "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+              "name": "./src/index.js",
+              "id": "./src/index.js"
             },
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\sass-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\style.scss",
@@ -1451,9 +1451,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -1750,14 +1750,14 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-              "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-              "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment-is-node.js",
+              "name": "./node_modules/core-js/internals/environment-is-node.js",
+              "id": "./node_modules/core-js/internals/environment-is-node.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment.js",
@@ -2002,9 +2002,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -2095,9 +2095,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -2202,9 +2202,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -2393,8 +2393,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -2407,16 +2407,16 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/define-built-in.js",
-          "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
           "chunks": [
             "name"
           ],
@@ -2523,9 +2523,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -2956,9 +2956,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -3473,14 +3473,14 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-              "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-              "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment-is-node.js",
+              "name": "./node_modules/core-js/internals/environment-is-node.js",
+              "id": "./node_modules/core-js/internals/environment-is-node.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment.js",
@@ -3627,9 +3627,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
@@ -3720,8 +3720,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "issuerName": "./node_modules/core-js/internals/promise-constructor-detection.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment-is-node.js",
+          "issuerName": "./node_modules/core-js/internals/environment-is-node.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -3734,21 +3734,21 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-              "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-              "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment-is-node.js",
+              "name": "./node_modules/core-js/internals/environment-is-node.js",
+              "id": "./node_modules/core-js/internals/environment-is-node.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/environment.js",
-          "issuerId": "./node_modules/core-js/internals/promise-constructor-detection.js",
+          "issuerId": "./node_modules/core-js/internals/environment-is-node.js",
           "chunks": [
             "name"
           ],
@@ -3827,8 +3827,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -3841,16 +3841,16 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/export.js",
-          "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
           "chunks": [
             "name"
           ],
@@ -4767,9 +4767,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\define-built-in.js",
@@ -5042,8 +5042,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\inspect-source.js",
-          "issuerName": "./node_modules/core-js/internals/inspect-source.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\function-uncurry-this-accessor.js",
+          "issuerName": "./node_modules/core-js/internals/function-uncurry-this-accessor.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -5056,26 +5056,26 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-              "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-              "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\object-set-prototype-of.js",
+              "name": "./node_modules/core-js/internals/object-set-prototype-of.js",
+              "id": "./node_modules/core-js/internals/object-set-prototype-of.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\inspect-source.js",
-              "name": "./node_modules/core-js/internals/inspect-source.js",
-              "id": "./node_modules/core-js/internals/inspect-source.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\function-uncurry-this-accessor.js",
+              "name": "./node_modules/core-js/internals/function-uncurry-this-accessor.js",
+              "id": "./node_modules/core-js/internals/function-uncurry-this-accessor.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/function-uncurry-this.js",
-          "issuerId": "./node_modules/core-js/internals/inspect-source.js",
+          "issuerId": "./node_modules/core-js/internals/function-uncurry-this-accessor.js",
           "chunks": [
             "name"
           ],
@@ -6669,9 +6669,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -6781,9 +6781,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -6884,9 +6884,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
@@ -7186,8 +7186,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -7200,16 +7200,16 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/is-callable.js",
-          "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
           "chunks": [
             "name"
           ],
@@ -7596,9 +7596,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -8122,8 +8122,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -8136,16 +8136,16 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/is-pure.js",
-          "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
           "chunks": [
             "name"
           ],
@@ -8280,9 +8280,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -8578,8 +8578,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\is-array-iterator-method.js",
-          "issuerName": "./node_modules/core-js/internals/is-array-iterator-method.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\get-iterator-method.js",
+          "issuerName": "./node_modules/core-js/internals/get-iterator-method.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -8602,16 +8602,16 @@
               "id": "./node_modules/core-js/internals/iterate.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\is-array-iterator-method.js",
-              "name": "./node_modules/core-js/internals/is-array-iterator-method.js",
-              "id": "./node_modules/core-js/internals/is-array-iterator-method.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\get-iterator-method.js",
+              "name": "./node_modules/core-js/internals/get-iterator-method.js",
+              "id": "./node_modules/core-js/internals/get-iterator-method.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/iterators.js",
-          "issuerId": "./node_modules/core-js/internals/is-array-iterator-method.js",
+          "issuerId": "./node_modules/core-js/internals/get-iterator-method.js",
           "chunks": [
             "name"
           ],
@@ -8811,9 +8811,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\define-built-in.js",
@@ -9230,8 +9230,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\define-built-in.js",
-          "issuerName": "./node_modules/core-js/internals/define-built-in.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+          "issuerName": "./node_modules/core-js/internals/set-to-string-tag.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -9244,21 +9244,21 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\define-built-in.js",
-              "name": "./node_modules/core-js/internals/define-built-in.js",
-              "id": "./node_modules/core-js/internals/define-built-in.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+              "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+              "id": "./node_modules/core-js/internals/set-to-string-tag.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/object-define-property.js",
-          "issuerId": "./node_modules/core-js/internals/define-built-in.js",
+          "issuerId": "./node_modules/core-js/internals/set-to-string-tag.js",
           "chunks": [
             "name"
           ],
@@ -9379,9 +9379,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -9472,9 +9472,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -9561,9 +9561,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -9771,9 +9771,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -9879,9 +9879,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -10051,9 +10051,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -10159,9 +10159,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -10359,8 +10359,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -10373,16 +10373,16 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/promise-constructor-detection.js",
-          "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
           "chunks": [
             "name"
           ],
@@ -10503,8 +10503,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -10517,16 +10517,16 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/promise-native-constructor.js",
-          "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+          "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
           "chunks": [
             "name"
           ],
@@ -11557,14 +11557,14 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-              "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-              "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+              "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+              "id": "./node_modules/core-js/internals/set-to-string-tag.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\well-known-symbol.js",
@@ -11757,14 +11757,14 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-              "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-              "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+              "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+              "id": "./node_modules/core-js/internals/set-to-string-tag.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\well-known-symbol.js",
@@ -11971,9 +11971,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -12089,9 +12089,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -12528,9 +12528,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -12631,9 +12631,9 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -12981,14 +12981,14 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-              "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-              "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+              "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+              "id": "./node_modules/core-js/internals/set-to-string-tag.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\well-known-symbol.js",
@@ -13093,14 +13093,14 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-              "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-              "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+              "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+              "id": "./node_modules/core-js/internals/set-to-string-tag.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\well-known-symbol.js",
@@ -13205,14 +13205,14 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\define-built-in.js",
-              "name": "./node_modules/core-js/internals/define-built-in.js",
-              "id": "./node_modules/core-js/internals/define-built-in.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+              "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+              "id": "./node_modules/core-js/internals/set-to-string-tag.js"
             },
             {
               "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\object-define-property.js",
@@ -13475,8 +13475,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "issuerName": "./node_modules/core-js/internals/promise-constructor-detection.js",
+          "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+          "issuerName": "./node_modules/core-js/internals/set-to-string-tag.js",
           "issuerPath": [
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -13489,21 +13489,21 @@
               "id": "./node_modules/core-js/modules/es.promise.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-              "name": "./node_modules/core-js/modules/es.promise.catch.js",
-              "id": "./node_modules/core-js/modules/es.promise.catch.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+              "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+              "id": "./node_modules/core-js/modules/es.promise.constructor.js"
             },
             {
-              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-              "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-              "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+              "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+              "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+              "id": "./node_modules/core-js/internals/set-to-string-tag.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./node_modules/core-js/internals/well-known-symbol.js",
-          "issuerId": "./node_modules/core-js/internals/promise-constructor-detection.js",
+          "issuerId": "./node_modules/core-js/internals/set-to-string-tag.js",
           "chunks": [
             "name"
           ],
@@ -14276,20 +14276,20 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-          "issuerName": "./src/index2.js",
+          "issuer": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+          "issuerName": "./src/index.js",
           "issuerPath": [
             {
-              "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-              "name": "./src/index2.js",
-              "id": "./src/index2.js"
+              "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+              "name": "./src/index.js",
+              "id": "./src/index.js"
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": "./styles/style.scss",
-          "issuerId": "./src/index2.js",
+          "issuerId": "./src/index.js",
           "chunks": [
             "index",
             "name"
@@ -14356,9 +14356,9 @@
           "issuerName": "./styles/style.scss",
           "issuerPath": [
             {
-              "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-              "name": "./src/index2.js",
-              "id": "./src/index2.js"
+              "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+              "name": "./src/index.js",
+              "id": "./src/index.js"
             },
             {
               "identifier": "D:\\Code\\webpackTest\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\sass-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\style.scss",
@@ -14908,20 +14908,20 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-      "issuerName": "./src/index2.js",
+      "issuer": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+      "issuerName": "./src/index.js",
       "issuerPath": [
         {
-          "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-          "name": "./src/index2.js",
-          "id": "./src/index2.js"
+          "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./styles/style.scss",
-      "issuerId": "./src/index2.js",
+      "issuerId": "./src/index.js",
       "chunks": [
         "index",
         "name"
@@ -15537,9 +15537,9 @@
       "issuerName": "./styles/style.scss",
       "issuerPath": [
         {
-          "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-          "name": "./src/index2.js",
-          "id": "./src/index2.js"
+          "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
         },
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\sass-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\style.scss",
@@ -15599,8 +15599,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-      "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+      "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -15613,16 +15613,16 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/export.js",
-      "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
       "chunks": [
         "name"
       ],
@@ -16509,8 +16509,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-      "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+      "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -16523,16 +16523,16 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/is-callable.js",
-      "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
       "chunks": [
         "name"
       ],
@@ -17162,8 +17162,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-      "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+      "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -17176,16 +17176,16 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/is-pure.js",
-      "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
       "chunks": [
         "name"
       ],
@@ -17305,8 +17305,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-      "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+      "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -17319,16 +17319,16 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/define-built-in.js",
-      "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
       "chunks": [
         "name"
       ],
@@ -18562,8 +18562,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-      "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+      "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -18576,16 +18576,16 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/promise-native-constructor.js",
-      "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
       "chunks": [
         "name"
       ],
@@ -18705,8 +18705,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-      "issuerName": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+      "issuerName": "./node_modules/core-js/modules/es.promise.constructor.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -18719,16 +18719,16 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/promise-constructor-detection.js",
-      "issuerId": "./node_modules/core-js/modules/es.promise.catch.js",
+      "issuerId": "./node_modules/core-js/modules/es.promise.constructor.js",
       "chunks": [
         "name"
       ],
@@ -19280,9 +19280,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -20302,9 +20302,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
@@ -20528,8 +20528,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-      "issuerName": "./node_modules/core-js/internals/promise-constructor-detection.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+      "issuerName": "./node_modules/core-js/internals/set-to-string-tag.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -20542,21 +20542,21 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-          "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+          "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+          "id": "./node_modules/core-js/internals/set-to-string-tag.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/well-known-symbol.js",
-      "issuerId": "./node_modules/core-js/internals/promise-constructor-detection.js",
+      "issuerId": "./node_modules/core-js/internals/set-to-string-tag.js",
       "chunks": [
         "name"
       ],
@@ -20880,9 +20880,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -21310,9 +21310,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -21402,8 +21402,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\define-built-in.js",
-      "issuerName": "./node_modules/core-js/internals/define-built-in.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+      "issuerName": "./node_modules/core-js/internals/set-to-string-tag.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -21416,21 +21416,21 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\define-built-in.js",
-          "name": "./node_modules/core-js/internals/define-built-in.js",
-          "id": "./node_modules/core-js/internals/define-built-in.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+          "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+          "id": "./node_modules/core-js/internals/set-to-string-tag.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/object-define-property.js",
-      "issuerId": "./node_modules/core-js/internals/define-built-in.js",
+      "issuerId": "./node_modules/core-js/internals/set-to-string-tag.js",
       "chunks": [
         "name"
       ],
@@ -21726,9 +21726,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\define-built-in.js",
@@ -21832,9 +21832,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
@@ -22242,9 +22242,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -22440,9 +22440,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -22532,8 +22532,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-      "issuerName": "./node_modules/core-js/internals/promise-constructor-detection.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment-is-node.js",
+      "issuerName": "./node_modules/core-js/internals/environment-is-node.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -22546,21 +22546,21 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-          "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment-is-node.js",
+          "name": "./node_modules/core-js/internals/environment-is-node.js",
+          "id": "./node_modules/core-js/internals/environment-is-node.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/environment.js",
-      "issuerId": "./node_modules/core-js/internals/promise-constructor-detection.js",
+      "issuerId": "./node_modules/core-js/internals/environment-is-node.js",
       "chunks": [
         "name"
       ],
@@ -24364,9 +24364,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -24447,9 +24447,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -24558,9 +24558,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -24669,8 +24669,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\inspect-source.js",
-      "issuerName": "./node_modules/core-js/internals/inspect-source.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\function-uncurry-this-accessor.js",
+      "issuerName": "./node_modules/core-js/internals/function-uncurry-this-accessor.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -24683,26 +24683,26 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-          "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\object-set-prototype-of.js",
+          "name": "./node_modules/core-js/internals/object-set-prototype-of.js",
+          "id": "./node_modules/core-js/internals/object-set-prototype-of.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\inspect-source.js",
-          "name": "./node_modules/core-js/internals/inspect-source.js",
-          "id": "./node_modules/core-js/internals/inspect-source.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\function-uncurry-this-accessor.js",
+          "name": "./node_modules/core-js/internals/function-uncurry-this-accessor.js",
+          "id": "./node_modules/core-js/internals/function-uncurry-this-accessor.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/function-uncurry-this.js",
-      "issuerId": "./node_modules/core-js/internals/inspect-source.js",
+      "issuerId": "./node_modules/core-js/internals/function-uncurry-this-accessor.js",
       "chunks": [
         "name"
       ],
@@ -24948,14 +24948,14 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-          "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment-is-node.js",
+          "name": "./node_modules/core-js/internals/environment-is-node.js",
+          "id": "./node_modules/core-js/internals/environment-is-node.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment.js",
@@ -25087,9 +25087,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -25198,14 +25198,14 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-          "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+          "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+          "id": "./node_modules/core-js/internals/set-to-string-tag.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\well-known-symbol.js",
@@ -25309,14 +25309,14 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-          "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+          "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+          "id": "./node_modules/core-js/internals/set-to-string-tag.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\well-known-symbol.js",
@@ -25420,14 +25420,14 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-          "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment-is-node.js",
+          "name": "./node_modules/core-js/internals/environment-is-node.js",
+          "id": "./node_modules/core-js/internals/environment-is-node.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\environment.js",
@@ -25698,14 +25698,14 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-          "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+          "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+          "id": "./node_modules/core-js/internals/set-to-string-tag.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\well-known-symbol.js",
@@ -25906,14 +25906,14 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\promise-constructor-detection.js",
-          "name": "./node_modules/core-js/internals/promise-constructor-detection.js",
-          "id": "./node_modules/core-js/internals/promise-constructor-detection.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+          "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+          "id": "./node_modules/core-js/internals/set-to-string-tag.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\well-known-symbol.js",
@@ -26017,9 +26017,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -26128,14 +26128,14 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\define-built-in.js",
-          "name": "./node_modules/core-js/internals/define-built-in.js",
-          "id": "./node_modules/core-js/internals/define-built-in.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\set-to-string-tag.js",
+          "name": "./node_modules/core-js/internals/set-to-string-tag.js",
+          "id": "./node_modules/core-js/internals/set-to-string-tag.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\object-define-property.js",
@@ -26225,9 +26225,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\define-built-in.js",
@@ -26322,9 +26322,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -26904,8 +26904,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\is-array-iterator-method.js",
-      "issuerName": "./node_modules/core-js/internals/is-array-iterator-method.js",
+      "issuer": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\get-iterator-method.js",
+      "issuerName": "./node_modules/core-js/internals/get-iterator-method.js",
       "issuerPath": [
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
@@ -26928,16 +26928,16 @@
           "id": "./node_modules/core-js/internals/iterate.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\is-array-iterator-method.js",
-          "name": "./node_modules/core-js/internals/is-array-iterator-method.js",
-          "id": "./node_modules/core-js/internals/is-array-iterator-method.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\get-iterator-method.js",
+          "name": "./node_modules/core-js/internals/get-iterator-method.js",
+          "id": "./node_modules/core-js/internals/get-iterator-method.js"
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": "./node_modules/core-js/internals/iterators.js",
-      "issuerId": "./node_modules/core-js/internals/is-array-iterator-method.js",
+      "issuerId": "./node_modules/core-js/internals/get-iterator-method.js",
       "chunks": [
         "name"
       ],
@@ -27029,9 +27029,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -27131,9 +27131,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -27233,9 +27233,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -27349,9 +27349,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -27553,9 +27553,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -27743,9 +27743,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -27850,9 +27850,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -28064,9 +28064,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -28171,9 +28171,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -28283,9 +28283,9 @@
           "id": "./node_modules/core-js/modules/es.promise.js"
         },
         {
-          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.catch.js",
-          "name": "./node_modules/core-js/modules/es.promise.catch.js",
-          "id": "./node_modules/core-js/modules/es.promise.catch.js"
+          "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\modules\\es.promise.constructor.js",
+          "name": "./node_modules/core-js/modules/es.promise.constructor.js",
+          "id": "./node_modules/core-js/modules/es.promise.constructor.js"
         },
         {
           "identifier": "javascript/dynamic|D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\node_modules\\core-js\\internals\\export.js",
@@ -28386,22 +28386,22 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\sass-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\style.scss",
-      "issuerName": "./styles/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./styles/style.scss",
+      "issuer": "D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\index.css",
+      "issuerName": "./styles/index.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/index.css",
       "issuerPath": [
         {
-          "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-          "name": "./src/index2.js",
-          "id": "./src/index2.js"
+          "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
         },
         {
-          "identifier": "D:\\Code\\webpackTest\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\sass-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\style.scss",
-          "name": "./styles/style.scss",
-          "id": "./styles/style.scss"
+          "identifier": "D:\\Code\\webpackTest\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\index.css",
+          "name": "./styles/index.css",
+          "id": "./styles/index.css"
         },
         {
-          "identifier": "D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\sass-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\style.scss",
-          "name": "./styles/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./styles/style.scss",
+          "identifier": "D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\index.css",
+          "name": "./styles/index.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/index.css",
           "id": null
         }
       ],
@@ -28513,22 +28513,22 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\sass-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\style.scss",
-      "issuerName": "./styles/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./styles/style.scss",
+      "issuer": "D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\index.css",
+      "issuerName": "./styles/index.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/index.css",
       "issuerPath": [
         {
-          "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-          "name": "./src/index2.js",
-          "id": "./src/index2.js"
+          "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
         },
         {
-          "identifier": "D:\\Code\\webpackTest\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\sass-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\style.scss",
-          "name": "./styles/style.scss",
-          "id": "./styles/style.scss"
+          "identifier": "D:\\Code\\webpackTest\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\index.css",
+          "name": "./styles/index.css",
+          "id": "./styles/index.css"
         },
         {
-          "identifier": "D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\sass-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\style.scss",
-          "name": "./styles/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./styles/style.scss",
+          "identifier": "D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\index.css",
+          "name": "./styles/index.css.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./styles/index.css",
           "id": null
         }
       ],
@@ -28644,9 +28644,9 @@
       "issuerName": "./styles/style.scss",
       "issuerPath": [
         {
-          "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index2.js",
-          "name": "./src/index2.js",
-          "id": "./src/index2.js"
+          "identifier": "D:\\Code\\webpackTest\\node_modules\\babel-loader\\lib\\index.js!D:\\Code\\webpackTest\\src\\index.js",
+          "name": "./src/index.js",
+          "id": "./src/index.js"
         },
         {
           "identifier": "D:\\Code\\webpackTest\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\Code\\webpackTest\\node_modules\\css-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\postcss-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\node_modules\\sass-loader\\dist\\cjs.js!D:\\Code\\webpackTest\\styles\\style.scss",
@@ -29448,8 +29448,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "06af6435df5d746e5b0e",
       "version": "5.94.0",
-      "time": 114,
-      "builtAt": 1725260177172,
+      "time": 105,
+      "builtAt": 1725263250063,
       "publicPath": "",
       "outputPath": "D:\\Code\\webpackTest\\dist",
       "assetsByChunkName": {},

@@ -36,6 +36,7 @@
     "serve-dev": "webpack serve --mode development",
     "build-mode-dev": "webpack --mode development",
     "build-mode-pro": "webpack --mode production",
+    "build-test-loader": "webpack --config webpack.testloader.js",
     "analyzer": "webpack-bundle-analyzer --port 3000 ./dist/stats.json"
   }
 }
