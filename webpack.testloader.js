@@ -2,6 +2,7 @@ const path = require('path');
 // 引入htmlWebpackPlugin
 const htmlWebpackPlugin = require('html-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const myPlugin = require('./myPlugin/index');
 
 module.exports = (env, argv) => {
     if (argv.mode === 'development' || !argv.mode) {
@@ -33,6 +34,7 @@ module.exports = (env, argv) => {
                 ]
             },
             plugins: [
+                new myPlugin(),
                 new CleanWebpackPlugin({
                     // dry: true   // 打开可测试，不会真正执行删除动作
                     cleanOnceBeforeBuildPatterns: [

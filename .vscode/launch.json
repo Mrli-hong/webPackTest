@@ -5,6 +5,26 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "调试dist文件",
+            "program": "${workspaceFolder}/miniWebpack/dist/index.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+    
+
+        {
+            "name": "测试手写webpack",
+            "program": "${workspaceFolder}/miniWebpackLib/debugger.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "自定义loader调试",
             "request": "launch",
             "runtimeArgs": [
